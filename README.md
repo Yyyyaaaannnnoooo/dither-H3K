@@ -1,0 +1,1 @@
+An update version of the <a href="http://dither.yannpatrickmartins.com">DITHER WEB APP</a> made for <a href="http://www.hek.ch/en/program/events-en/event/regionale-18-silicon-is-a-grey-crystal.html">"Silicon is a Grey Cristal"</a> exhibition at <a href="http://www.hek.ch">H3K, Haus der Elektronisch Künste</a> in Basel.
